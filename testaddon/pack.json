@@ -1,0 +1,6 @@
+{
+  "name": "Hello World",
+  "info": "你好 世界",
+  "modules": [ "resources", "data" ],
+  "version": "1.16.100"
+}
