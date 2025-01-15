@@ -1,3 +1,3 @@
-module.exports = function( path, json ){
-  return {json(){[{path,json}]}}
+module.exports = function( path, json, isjson ){
+  return {json(){return [{path,json,isjson}]}}
 }
